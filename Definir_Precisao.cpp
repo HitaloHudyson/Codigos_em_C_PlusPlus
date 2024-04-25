@@ -1,3 +1,4 @@
+#include <iostream>
 #include <iomanip>
 
 //A biblioteca iomanip fornece manipuladores de entrada e saidade de dados//
